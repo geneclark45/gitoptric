@@ -1,2 +1,2 @@
 # gitoptric
-catoptric but static
+catoptric yet static
