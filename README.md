@@ -1,2 +1,2 @@
 # gitoptric
-catoptric yet static
+site tk
